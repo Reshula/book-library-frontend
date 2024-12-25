@@ -1,0 +1,20 @@
+body {
+    font-family: 'Merriweather', serif;
+    background: url('https://images.unsplash.com/photo-1517524285303-d6fc683dddf8?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center;
+    background-size: cover;
+  }
+  .h1-title{
+    color: #004080; 
+    font-weight: 600;
+  
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #004080; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+
+  }
